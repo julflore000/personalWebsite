@@ -4,13 +4,13 @@ email: email
 url: url
 description: "A blog and a portfolio"
 author: "author"
-title: "BlogFolio"
+title: "Julian Florez"
 permalink: pretty
-baseurl: /jekyll-theme-blogfolio
+baseurl: /JulianFlorez
 
 # social
 github:
-  username: username
+  username: "julflore000"
 
-twitter:
-  username: username
+Email:
+  username: "jflorez@umich.edu"
