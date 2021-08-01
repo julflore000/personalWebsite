@@ -1,12 +1,12 @@
 # Site settings
-name: name
-email: email
+name: Julian Florez
+email: "jflorez@umich.edu"
 url: url
-description: "A blog and a portfolio"
+description: "A blog and information about me"
 author: "author"
 title: "Julian Florez"
 permalink: pretty
-baseurl: /JulianFlorez
+baseurl: /personalWebsite
 
 # social
 github:
