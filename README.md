@@ -3,7 +3,6 @@
 Style graciously from: https://github.com/lamccloskey/jekyll-theme-blogfolio!!!
 
 
-CURRENTLY UNDER DEVELOPMENT
 Website: https://julflore000.github.io/personalWebsite/
 
 command to run local server with continuous update: 'bundle exec jekyll serve --livereload'
