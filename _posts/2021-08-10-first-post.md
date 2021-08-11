@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website Under Construction!"
+title: "Writing first post, however check out Accomplishments and About tabs!"
 date: "2021-08-10"
 ---
 
