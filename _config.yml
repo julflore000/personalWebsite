@@ -1,10 +1,10 @@
 # Site settings
-name: Julian A. Florez
+name: Julian Florez
 email: "jflorez@umich.edu"
 url: url
 description: "A blog and information about me"
 author: "author"
-title: "Julian Florez"
+title: "Julian A. Florez"
 permalink: pretty
 baseurl: /personalWebsite
 
