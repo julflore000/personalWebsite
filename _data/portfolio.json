@@ -42,7 +42,7 @@
             "link": "https://www.sciencedirect.com/science/article/pii/S0960148121011009?casa_token=vOEtMiGD3rwAAAAA:sCKDCVcn8QLvykoh0zYHj5zK0CvG3mtkOIyxb6vpWjepMAe0F2B58REnPRXodNFI-nfAp46L9w",
             "image": "../images/nationalAssessment.jpg",
             "date_added": "2019-2021",
-            "description": "Alongside fellow researchers, we conducted a comprehensive study analyzing the reliability impact of wind and solar resources on the US Western Interconnect power grid. Published work in leading in Renewable Energy journal and fortunate to present work at multiple conferences!",
+            "description": "Alongside fellow researchers, we conducted a comprehensive study analyzing the reliability impact of wind and solar resources on the US Western Interconnect power grid. Published work in leading Renewable Energy journal and fortunate to present work at multiple conferences!",
             "technologies": [
                 "Python",
                 "LaTeX",
@@ -55,7 +55,7 @@
         "link": "https://www.npmjs.com/package/office-addin-usage-data",
         "image": "../images/telemetryPackage.png",
         "date_added": " Summer 2019",
-        "description": "Member of the Microsoft Office division. Worked alongside software developers, attorneys, and product managers to develop a telemetry package for resource allocation and consumer privacy.",
+        "description": "Member of the Microsoft Office division. Worked alongside software developers, attorneys, and product managers to develop a telemetry package for managing resource allocation, product details, and consumer privacy.",
         "technologies": [
             "TypeScript",
             "Software development",
