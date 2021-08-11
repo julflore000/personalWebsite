@@ -8,12 +8,6 @@ Website: https://julflore000.github.io/personalWebsite/
 command to run local server with continuous update: 'bundle exec jekyll serve --livereload'
 
 * Things to do:
-    * Work on adding work done
-        * Microsoft package
-        * National Assessment of Capacity Values (code/paper)
-        * Multi objective optimization model
-        * MJIA Denmark article
-        * Santa Fe Institute Work done
     * Things I am reading right now
         * circular insider: https://www.circularchange.com/
         * Circularity gap: https://assets.website-files.com/5e185aa4d27bcf348400ed82/5e26ead616b6d1d157ff4293_20200120%20-%20CGR%20Global%20-%20Report%20web%20single%20page%20-%20210x297mm%20-%20compressed.pdf AND https://www.circularity-gap.world/2021
