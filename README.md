@@ -6,6 +6,7 @@ Style graciously from: https://github.com/lamccloskey/jekyll-theme-blogfolio!!!
 CURRENTLY UNDER DEVELOPMENT
 Website: https://julflore000.github.io/personalWebsite/
 
+command to run local server with continuous update: 'bundle exec jekyll serve --livereload'
 
 * Things to do:
     * Work on adding work done
@@ -21,12 +22,15 @@ Website: https://julflore000.github.io/personalWebsite/
         * Future for circular economy plastics: https://www.bcg.com/publications/2019/plastic-waste-circular-solution
         * Shrimp farming: https://www.bcg.com/publications/2019/shrimp-farmers-worldwide-must-adopt-sustainable-practices
         * The new big circle: http://docs.wbcsd.org/2018/01/The_new_big_circle.pdf
-        * CIRCelligence: https://web-assets.bcg.com/72/a9/be8d79d94fa3ae10c84b446fd063/de-circelligence-by-bcg.pdf
         * Moving to circular: https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Sustainability/Our%20Insights/The%20circular%20economy%20Moving%20from%20theory%20to%20practice/The%20circular%20economy%20Moving%20from%20theory%20to%20practice.ashx
         * Knowledge hub: https://knowledge-hub.circle-lab.com/
         * Conducted Insights: https://www.circle-economy.com/programmes/cities/insights
         * Norwegian economy sucks at being circular: https://www.circularity-gap.world/updates-collection/the-norwegian-economy-is-2-4-circular
         * WWF state of deforestation: https://deforestation-free.panda.org/wp-content/uploads/2021/07/WWF-Deforestation-2021.pdf
+        * Impact of EVs: https://www.footprintnetwork.org/2021/07/07/ecobytes-what-difference-do-electric-vehicles-truly-make/
+        * Beef and Brazil: https://www.footprintnetwork.org/2021/06/11/ecobytes-beef-and-brazils-declining-biocapacity/
+        * Using data for natural resources analysis: https://www.footprintnetwork.org/2021/05/20/ecobytes-what-can-data-tell-us-about-natural-resource-producers-and-consumers/
+        * Climate committees: https://www.footprintnetwork.org/2021/05/12/forget-about-climate-commitments/
     * Things I plan to write about
         * COP26 the next steps
         * Is the Circular Economy even possible?
