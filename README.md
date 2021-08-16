@@ -6,6 +6,7 @@ Style graciously from: https://github.com/lamccloskey/jekyll-theme-blogfolio!!!
 Website: https://julflore000.github.io/personalWebsite/
 
 command to run local server with continuous update: 'bundle exec jekyll serve --livereload'
+Image description: ![alt text](https://assets.climatecentral.org/images/made/02_19_2014_Bobby_Magill_Navajo_1050_1048_s_c1_c_c.jpg)
 
 * Things to do:
     * Things I am reading right now
@@ -28,5 +29,11 @@ command to run local server with continuous update: 'bundle exec jekyll serve --
         * COP26 the next steps
         * Is the Circular Economy even possible?
         * Why is Europe ahead in sustainability?
-        ( How the chemical industry ties into sustainability development goals SDG goals
+        ( How the chemical industry ties into sustainability development goals SDG goals)
+        * Steps
+            * First identify greatest challenges facing humanity-from waste perspective
+            * Second: research top disciplines and explore where CE principles can be applied
+            * Third: write up abstract on topic-if I like it continue writing!!!
+        * Ideas
+            1. Russia, renewables: another revolution?
 

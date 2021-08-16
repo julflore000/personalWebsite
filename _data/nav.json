@@ -1,5 +1,9 @@
 {
     "items": [{
+        "name": "Blog",
+        "link": "/blog/"
+        },
+        {
             "name": "Accomplishments!",
             "link": "/accomplishments/"
         },

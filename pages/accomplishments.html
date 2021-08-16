@@ -27,7 +27,9 @@ permalink: /accomplishments/
                     <span class="tag is-primary">{{tech}}</span> {% endfor %}
                 </div>
                 <footer class="card-footer">
-                    <a class="card-footer-item" href="{{item.link}}" target="_blank"><span>Check it out</span></a>
+                    {% for link in item.linkPairs%}
+                        <a class="card-footer-item" href="{{link[0]}}" target="_blank"><span>{{link[1]}}</span></a>
+                    {% endfor %}
                 </footer>
             </div>
         </div>

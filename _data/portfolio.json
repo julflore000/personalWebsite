@@ -1,7 +1,7 @@
 {
     "items": [
         {"name": "Dynamics of Company Waste Operations with Scaling Analysis",
-            "link": "https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research",
+            "linkPairs": [["https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research","Program Description"]],
             "image": "../images/companyWaste.jpg",
             "date_added": "Summer of 2021",
             "description": "As a Complexity Researcher in the Santa Fe Institute's Undergraduate Complexity Research (formerly REU) program, I was able to work alongside PhD and resident faculty on a self-created complex systems project. While there I explored conceptual details of circular economy principles in companies and the scaling patterns of company waste.",
@@ -14,7 +14,7 @@
             
         },
         {"name": "Shifting Winds of Power: Analysis on Denmark's Energy Island",
-            "link": "../images/denmarkMJIAArticle.pdf",
+            "linkPairs": [["../images/denmarkMJIAArticle.pdf","Article"],["https://www.mjiaum.org/","Journal Website"]],
             "image": "../images/denmarkMJIA2.jpg",
             "date_added": "2021",
             "description": "As a journalist for the Michigan Journal of International Affairs, I produced a recent article analyzing Denmark's decision to build the world's first energy-island and respective geopolitical impacts.",
@@ -26,7 +26,7 @@
             
         },
         {"name": "Multi-objective Optimization of Coal Retirements",
-            "link": "https://github.com/ijbd/EquitableRetirement",
+            "linkPairs": [["https://github.com/ijbd/EquitableRetirement","Github Repo"],["https://www.assetlab.org/","Research Lab"]],
             "image": "../images/coalRetirement.jpg",
             "date_added": "2021",
             "description": "I worked on a project creating and researching a multi-objective optimization of coal retirements in the Mid-Atlantic. The goal of the project is to develop future equitable pathways to take into account social and environmental costs as well as the financial costs of coal plants.",
@@ -39,7 +39,7 @@
             ]
             
         },{"name": "National Assessment of Wind and Solar Resources ",
-            "link": "https://www.sciencedirect.com/science/article/pii/S0960148121011009?casa_token=vOEtMiGD3rwAAAAA:sCKDCVcn8QLvykoh0zYHj5zK0CvG3mtkOIyxb6vpWjepMAe0F2B58REnPRXodNFI-nfAp46L9w",
+            "linkPairs": [["https://www.sciencedirect.com/science/article/pii/S0960148121011009?casa_token=vOEtMiGD3rwAAAAA:sCKDCVcn8QLvykoh0zYHj5zK0CvG3mtkOIyxb6vpWjepMAe0F2B58REnPRXodNFI-nfAp46L9w","Journal Article"],["https://www.assetlab.org/","Research Lab"]],
             "image": "../images/nationalAssessment.jpg",
             "date_added": "2019-2021",
             "description": "Alongside fellow researchers, we conducted a comprehensive study analyzing the reliability impact of wind and solar resources on the US Western power grid. The work was published in the journal, Renewable Energy, and we presented our work at multiple conferences.",
@@ -52,7 +52,7 @@
             
         },{
         "name": "Telemetry package",
-        "link": "https://www.npmjs.com/package/office-addin-usage-data",
+        "linkPairs": [["https://www.npmjs.com/package/office-addin-usage-data","Package info"]],
         "image": "../images/telemetryPackage.png",
         "date_added": " Summer 2019",
         "description": "As a member of the Microsoft Office division, I worked alongside software developers, attorneys, and product managers to develop a telemetry package for managing resource allocation, product details, and consumer privacy.",
