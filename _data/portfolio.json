@@ -1,9 +1,22 @@
 {
     "items": [
+        {"name": "Research & Analytics Intern",
+            "linkPairs": [["https://www.boundlessimpact.net/","Organization Info"]],
+            "image": "../images/boundlessImpact.png",
+            "date_added": "Fall 2021",
+            "description": "As a member in a sustainability oriented market intelligence platform, I worked with stakeholders to conduct interviews, research sustainability trends, and communicate insights to a growing hub of impact leaders",
+            "technologies": [
+                "Research",
+                "Journalism",
+                "Data Analysis",
+                "Boundless Impact"
+            ]
+            
+        },
         {"name": "Dynamics of Company Waste Operations with Scaling Analysis",
             "linkPairs": [["https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research","Program Description"]],
             "image": "../images/companyWaste.jpg",
-            "date_added": "Summer of 2021",
+            "date_added": "Summer 2021",
             "description": "As a Complexity Researcher in the Santa Fe Institute's Undergraduate Complexity Research (formerly REU) program, I was able to work alongside PhD and resident faculty on a self-created complex systems project. While there I explored conceptual details of circular economy principles in companies and the scaling patterns of company waste.",
             "technologies": [
                 "Research",
