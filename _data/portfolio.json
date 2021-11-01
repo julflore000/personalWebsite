@@ -51,7 +51,7 @@
             
         },
         {"name": "Multi-objective Optimization of Coal Retirements",
-            "linkPairs": [["https://github.com/ijbd/EquitableRetirement","Github Repo"],["https://www.assetlab.org/","Research Lab"]],
+            "linkPairs": [["https://www.assetlab.org/","Research Lab"]],
             "image": "../images/coalRetirement.jpg",
             "date_added": "2021",
             "description": "I worked on a project creating and researching a multi-objective optimization of coal retirements in the Mid-Atlantic. The goal of the project is to develop future equitable pathways to take into account social and environmental costs as well as the financial costs of coal plants.",
