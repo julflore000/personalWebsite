@@ -1,10 +1,24 @@
 {
     "items": [
+        {"name": "Innovation for Impact: Climate Change",
+            "linkPairs": [["https://cfe.umich.edu/techlab-climatechange/","Program Information"]],
+            "image": "../images/carbonCapture.jpg",
+            "date_added": "Fall 2021",
+            "description": "Selected to be a part of University of Michigan's Innovation for Impact: Climate Change. I will be a part of a research group working with an industrial analytics company to build out the functionality of geothermal energy into their carbon capture optimization decision model. The course will also provide working technical and financial knowledge of the carbon capture space",
+            "technologies": [
+                "Research",
+                "Business",
+                "Software",
+                "Geothermal",
+                "Carbon capture"
+            ]
+            
+        },
         {"name": "VERGE 21 Emerging Leader",
             "linkPairs": [["https://events.greenbiz.com/events/verge-conference/online-event/2021/emerging-leaders","Emerging Leaders Program"]],
             "image": "../images/VERGE_21.png",
             "date_added": "Fall 2021",
-            "description": "Selected as a emerging leader to attend the VERGE 21 conference put on by Greenbiz, I will be able to interact with a host of leading professionals across energy, infrastructure, and agricultural disciplines to forge working relationships and generate deeper insights on the forefront of sustainability in and across industries.",
+            "description": "Selected as a emerging leader to attend the VERGE 21 conference put on by Greenbiz. I interacted with a host of leading professionals across energy, infrastructure, and agricultural disciplines to forge working relationships and generate deeper insights on the forefront of sustainability in and across industries.",
             "technologies": [
                 "Research",
                 "Journalism",
@@ -51,7 +65,7 @@
             
         },
         {"name": "Multi-objective Optimization of Coal Retirements",
-            "linkPairs": [["https://github.com/ijbd/EquitableRetirement","Github Repo"],["https://www.assetlab.org/","Research Lab"]],
+            "linkPairs": [["https://www.assetlab.org/","Research Lab"]],
             "image": "../images/coalRetirement.jpg",
             "date_added": "2021",
             "description": "I worked on a project creating and researching a multi-objective optimization of coal retirements in the Mid-Atlantic. The goal of the project is to develop future equitable pathways to take into account social and environmental costs as well as the financial costs of coal plants.",

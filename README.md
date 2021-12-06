@@ -5,7 +5,7 @@ Style graciously from: https://github.com/lamccloskey/jekyll-theme-blogfolio!!!
 
 Website: https://julflore000.github.io/personalWebsite/
 
-command to run local server with continuous update: 'bundle exec jekyll serve --livereload'
+command to run local server with continuous update: 'bundle exec jekyll serve'
 
 
 * Things to do:

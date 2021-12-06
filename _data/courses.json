@@ -1,0 +1,16 @@
+{
+    "items": [
+        {"name": "Renewable Electricity & the Grid",
+            "linkPairs": [["https://seas.umich.edu/academics/courses/renewable-electricity-grid","Course Information"]],
+            "image": "../images/courses/EAS_615.png",
+            "date_added": "Winter 2021",
+            "description": "Graduate level course providing a holistic overview of the current renewable energy technologies and market dynamics. Final project involved analyzing the feasibility of creating 100% renewable energy local utility with stakeholder analysis.",
+            "technologies": [
+                "Renewable Energy",
+                "Sustainability",
+                "Excel"
+            ]
+            
+        }]
+        
+}
