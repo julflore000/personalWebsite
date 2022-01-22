@@ -1,5 +1,17 @@
 {
     "items": [
+        {"name": "Hydrogen: A Fuelture in the Making Analysis on hydrogen development across Europe",
+            "linkPairs": [["../images/hydrogenMJIAArticle.pdf","Article"],["https://www.mjiaum.org/","Journal Website"]],
+            "image": "../images/hydrogenMJIA2.jpg",
+            "date_added": "2022",
+            "description": "As a journalist for the Michigan Journal of International Affairs, I produced a recent article analyzing hydrogen development around Europe using Iceland's hydrogen development announcement to work with Rotterdam as a starting point.",
+            "technologies": [
+                "Journalism",
+                "Research",
+                "MJIA"
+            ]
+            
+        },
         {"name": "Innovation for Impact: Climate Change",
             "linkPairs": [["https://cfe.umich.edu/techlab-climatechange/","Program Information"]],
             "image": "../images/carbonCapture.jpg",
