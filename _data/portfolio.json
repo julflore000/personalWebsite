@@ -1,7 +1,7 @@
 {
     "items": [
         {"name": "Hydrogen: A Fuelture in the Making Analysis on hydrogen development across Europe",
-            "linkPairs": [["../images/hydrogenMJIAArticle.pdf","Article"],["https://www.mjiaum.org/","Journal Website"]],
+            "linkPairs": [["../images/hydrogenMJIAArticle.pdf","Article"],["https://www.mjia.org/","Journal Website"]],
             "image": "../images/hydrogenMJIA2.jpg",
             "date_added": "2022",
             "description": "As a journalist for the Michigan Journal of International Affairs, I explored Iceland's recent hydrogen partnership with Rotterdam within the greater ecosystem of hydrogen development in Europe.",
@@ -65,7 +65,7 @@
             
         },
         {"name": "Shifting Winds of Power: Analysis on Denmark's Energy Island",
-            "linkPairs": [["../images/denmarkMJIAArticle.pdf","Article"],["https://www.mjiaum.org/","Journal Website"]],
+            "linkPairs": [["../images/denmarkMJIAArticle.pdf","Article"],["https://www.mjia.org/","Journal Website"]],
             "image": "../images/denmarkMJIA2.jpg",
             "date_added": "2021",
             "description": "As a journalist for the Michigan Journal of International Affairs, I produced a recent article analyzing Denmark's decision to build the world's first energy-island and respective geopolitical impacts.",
