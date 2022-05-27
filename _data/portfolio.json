@@ -1,5 +1,17 @@
 {
     "items": [
+        {"name": "Optimizing the Green Ammonia Supply Chain: Production and Transportation with Saudi Arabia in Focus",
+            "linkPairs": [["https://vsrp.kaust.edu.sa/","Visiting Researcher Program"]],
+            "image": "../images/greenAmmoniaSupplyChain.jpg",
+            "date_added": "2022",
+            "description": "Four-month research internship through the Visiting Student Research Program. Work on comparing optimal green ammonia supply chains vs publicly stated investments with relevance to the Saudi Arabian ecosystem.",
+            "technologies": [
+                "Research",
+                "Optimization",
+                "Sustainability"
+            ]
+            
+        },
         {"name": "Hydrogen: A Fuelture in the Making Analysis on hydrogen development across Europe",
             "linkPairs": [["../images/hydrogenMJIAArticle.pdf","Article"],["https://www.mjia.org/","Journal Website"]],
             "image": "../images/hydrogenMJIA2.jpg",
