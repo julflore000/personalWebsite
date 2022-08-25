@@ -4,7 +4,7 @@
             "linkPairs": [["https://vsrp.kaust.edu.sa/","Visiting Researcher Program"]],
             "image": "../images/greenAmmoniaSupplyChain.jpg",
             "date_added": "2022",
-            "description": "Four-month research internship through the Visiting Student Research Program. Work on comparing optimal green ammonia supply chains vs publicly stated investments with relevance to the Saudi Arabian ecosystem.",
+            "description": "Four-month research internship through the Visiting Student Research Program. Work on analyzing optimal green hydrogen and ammonia supply chains with relevance to the Saudi Arabian ecosystem. Paper currently in development.",
             "technologies": [
                 "Research",
                 "Optimization",
@@ -89,7 +89,7 @@
             
         },
         {"name": "Multi-objective Optimization of Coal Retirements",
-            "linkPairs": [["https://www.assetlab.org/","Research Lab"]],
+            "linkPairs": [["https://www.sciencedirect.com/science/article/pii/S2589004222010896","Research Paper"],["https://www.assetlab.org/","Research Lab"]],
             "image": "../images/coalRetirement.jpg",
             "date_added": "2021",
             "description": "I worked on a project creating and researching a multi-objective optimization of coal retirements in the Mid-Atlantic. The goal of the project is to develop future equitable pathways to take into account social and environmental costs as well as the financial costs of coal plants.",
